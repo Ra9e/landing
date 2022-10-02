@@ -1,0 +1,14 @@
+.in-touch-bg {
+  background-color: #E0F391;
+  padding: 50px 0 40px 0;
+}
+.in-touch-bg .in-touch_border {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+  border-top: solid 1px #6D6B67;
+}
+.in-touch-bg .in-touch__header {
+  font-size: 30px;
+  line-height: 42px;
+}/*# sourceMappingURL=in-touch.css.map */

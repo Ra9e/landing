@@ -1,0 +1,25 @@
+.clients-bg {
+  max-height: 638px;
+  height: 100%;
+  background-color: #F7F6F3;
+}
+.clients-bg .clients {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.clients-bg .clients__header {
+  font-size: 38px;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 36px;
+}
+.clients-bg .clients__content {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 60px;
+  justify-items: center;
+  align-items: center;
+  padding: 40px 0;
+  border-bottom: solid 1px #6D6B67;
+  border-top: solid 1px #6D6B67;
+}/*# sourceMappingURL=clients.css.map */

@@ -1,0 +1,26 @@
+.about {
+  max-height: 708px;
+  height: 100%;
+  padding-top: 90px;
+  padding-bottom: 122px;
+}
+.about__header {
+  max-width: 935px;
+  width: 100%;
+  margin-bottom: 24px;
+  font-size: 72px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+.about__content {
+  display: flex;
+  justify-content: flex-end;
+}
+.about__content-item {
+  max-width: 347px;
+  width: 100%;
+  margin-right: 40px;
+}
+.about__content-item:last-child {
+  margin: 0;
+}/*# sourceMappingURL=about.css.map */

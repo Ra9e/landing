@@ -1,0 +1,22 @@
+.header {
+  padding-top: 24px;
+  padding-bottom: 20px;
+
+  &__content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  &__link {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-right: 26px;
+
+    &:hover {
+      padding-bottom: 5px;
+      border-bottom: solid black 1px;
+    }
+  }
+}

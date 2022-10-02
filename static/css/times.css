@@ -1,0 +1,53 @@
+.times {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 80px;
+  padding-bottom: 94px;
+}
+.times__header {
+  max-width: 352px;
+  width: 100%;
+  margin-bottom: 44px;
+  font-size: 35px;
+  line-height: 50px;
+}
+.times__header-link {
+  margin-left: 32px;
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+  line-height: 27px;
+}
+.times__header-link:hover {
+  padding-bottom: 5px;
+  border-bottom: solid black 1px;
+}
+.times__content {
+  max-width: 640px;
+  width: 100%;
+  padding-top: 27px;
+  border-top: solid 1px #6D6B67;
+}
+.times__content-main {
+  font-size: 20px;
+  line-height: 30px;
+}
+.times__content-secondary {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  justify-items: start;
+  margin-top: 37px;
+}
+.times__content-secondary-title {
+  margin-bottom: 14px;
+  font-size: 19px;
+  line-height: 30px;
+}
+.times__content-secondary-value {
+  font-size: 16px;
+  line-height: 24px;
+}
+.times__content-wrapper {
+  max-width: 297px;
+  width: 100%;
+}/*# sourceMappingURL=times.css.map */
